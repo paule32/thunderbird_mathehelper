@@ -1,0 +1,5 @@
+<!ENTITY mathehelper.newmessage "New Message">
+
+<!ENTITY mathehelper.prefs.messenger.watchmessenger "Use for Messenger windows">
+<!ENTITY mathehelper.prefs.messenger.watchreader    "Use for Message windows"> 
+<!ENTITY mathehelper.prefs.messenger.watchcomposer  "Use for Write windows">

@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<overlay id="mathehelper_overlay"
+xmlns="http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul">
+    <script type="application/javascript" src="chrome://mathehelper/content/messenger/messenger.js" />
+    <statusbar id="status-bar">
+        <statusbarpanel id="mathe-panel" label="Date" />
+    </statusbar>
+</overlay>

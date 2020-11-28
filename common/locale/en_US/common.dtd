@@ -1,0 +1,7 @@
+<!ENTITY mathehelper.minimize "Minimize to tray">
+<!ENTITY mathehelper.minimize.toolbar "To tray">
+<!ENTITY mathehelper.minimize.tip "Minimizes the current window to the system tray">
+<!ENTITY mathehelper.restore "Restore">
+<!ENTITY mathehelper.restoreall "Restore all">
+<!ENTITY mathehelper.close "Close">
+<!ENTITY mathehelper.closemenu "Close menu">
