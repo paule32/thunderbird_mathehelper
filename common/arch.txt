@@ -1,3 +1,0 @@
-.\common\content
-.\common\locale
-.\common\skin

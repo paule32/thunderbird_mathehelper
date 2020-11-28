@@ -1,0 +1,13 @@
+[
+  {
+    "namespace": "kallup",
+    "functions": [
+      {
+        "name": "openMatheHelper",
+        "type": "function",
+        "async": true,
+        "parameters": []
+      }
+    ]
+  }
+]

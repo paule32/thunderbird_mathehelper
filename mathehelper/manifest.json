@@ -1,0 +1,46 @@
+{
+  "manifest_version": 2,
+  "name": "Mathe Helper",
+  "description": "Toolbar button to invoke message search dialog window.",
+  "version": "0.0.1",
+  "author": "Idea: Jens Kallup, Code: paule32",
+  "icons": {
+      "16": "search.svg",
+      "24": "search.svg",
+      "32": "search.svg",
+      "48": "search.svg",
+      "64": "search.svg",
+      "96": "search.svg"
+  },
+  "applications": {
+      "gecko": {
+	"id": "MatheHelper@localhost",
+        "strict_min_version": "74.0"
+      }
+  },
+  "experiment_apis": {
+    "kallup": {
+      "schema": "schema.json",
+      "parent": {
+        "scopes": [
+          "addon_parent"
+        ],
+        "paths": [
+          [
+            "kallup"
+          ]
+        ],
+        "script": "implementation.js"
+      }
+    }
+  },
+  "background": {
+	"scripts": [
+		"background.js"
+	]
+  },
+  "browser_action": {
+    "default_title": "MatheHelper",
+    "default_icon": "search.svg"
+  }
+}

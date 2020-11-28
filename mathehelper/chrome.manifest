@@ -1,8 +1,0 @@
-content mathehelper jar:chrome.jar!/content/
-content mathehelper-locale jar:chrome.jar!/locale/de_DE/
-
-locale mathehelper en_US jar:chrome.jar!/locale/en_US/
-locale mathehelper de_DE jar:chrome.jar!/locale/de_DE/
-
-# Thunderbird
-overlay chrome://messenger/content/messenger.xul chrome://mathehelper/content/messenger.xul
